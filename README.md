@@ -4,4 +4,4 @@
 
 ## About
 
-I'm a Junior Full-Stack Developer who is in love with ReactJS, Apollo, GraphQL, NodeJS, PostgreSQL, PostGraphile, GO, etc.
+I'm a Full-Stack Developer who is in love with ReactJS, Apollo, GraphQL, NodeJS, PostgreSQL, PostGraphile, GO, etc.
