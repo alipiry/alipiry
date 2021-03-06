@@ -1,6 +1,6 @@
 # Hi, I'm Ali 👋👨‍💻
 
-<img src="https://raw.githubusercontent.com/alipiry/alipiry/master/ap.png" alt="Ali Piry, Software Developer">
+<img src="https://raw.githubusercontent.com/alipiry/alipiry/master/ap-dark.png" alt="Ali Piry, Software Developer">
 
 ## About
 
