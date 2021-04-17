@@ -19,7 +19,7 @@
 ![C](https://img.shields.io/badge/-C-black?style=for-the-badge&logo=c&link=https://github.com/alipiry)
 ![C++](https://img.shields.io/badge/-C++-black?style=for-the-badge&logo=c%2B%2B&link=https://github.com/alipiry)
 
-![NodeJS](https://img.shields.io/badge/-Node.JS-black?style=for-the-badge&logo=node.js&link=https://github.com/alipiry)
+![NodeJS](https://img.shields.io/badge/-NodeJS-black?style=for-the-badge&logo=node.js&link=https://github.com/alipiry)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=for-the-badge&logo=postgresql&link=https://github.com/alipiry)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-black?style=for-the-badge&logo=graphql&link=https://github.com/alipiry)
 
