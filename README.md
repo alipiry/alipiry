@@ -15,7 +15,7 @@
 ### 🛠 &nbsp;Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript&logoColor=blue)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript&logoColor=blue)&nbsp;\
 ![GO](https://img.shields.io/badge/-GO-05122A?style=flat&logo=go&logoColor=blue)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;\
@@ -26,7 +26,7 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-  <a href="https://github.com/AVS1508">
+  <a href="https://github.com/alipiry">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=alipiry&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alipiry&layout=compact&langs_count=8&theme=algolia" />
   </a>
@@ -34,6 +34,4 @@
 
 ### 🤝🏻 &nbsp;Connect with Me
 
-<p align="center">
-  <a href="mailto:ali@piry.dev"><img src="https://img.shields.io/badge/-ali@piry.dev-D14836?style=flat&logo=Gmail&logoColor=white" />
-</p>
+<a href="mailto:ali@piry.dev"><img src="https://img.shields.io/badge/-ali@piry.dev-D14836?style=flat&logo=Gmail&logoColor=white" />
