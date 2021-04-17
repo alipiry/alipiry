@@ -17,7 +17,7 @@
 ![Typescript](https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logo=typescript&link=https://github.com/alipiry)
 ![Go](https://img.shields.io/badge/-Go-black?style=for-the-badge&logo=go&link=https://github.com/alipiry)
 ![C](https://img.shields.io/badge/-C-black?style=for-the-badge&logo=c&link=https://github.com/alipiry)
-![C++](https://img.shields.io/badge/-C++-black?style=for-the-badge&logo=c++&link=https://github.com/alipiry)
+![C++](https://img.shields.io/badge/-C++-black?style=for-the-badge&logo=c%2B%2B&link=https://github.com/alipiry)
 
 ![NodeJS](https://img.shields.io/badge/-Node.JS-black?style=for-the-badge&logo=node.js&link=https://github.com/alipiry)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=for-the-badge&logo=postgresql&link=https://github.com/alipiry)
