@@ -2,14 +2,6 @@
 
 👋 &nbsp;Hey there! I'm Ali
 
-### 👨‍💻 &nbsp;About Me
-
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Computer Software Engineering at QIAU.\
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Machine Learning and Blockchain.\
-✉️ &nbsp;You can shoot me an email at ali@piry.dev! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [CV](https://raw.githubusercontent.com/alipiry/alipiry/master/ap-cv.pdf) for more details about me.
-
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
