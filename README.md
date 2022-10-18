@@ -1,7 +1,5 @@
 👋 &nbsp;Hey there! I'm Ali
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
-
 ### 🛠 &nbsp;Tech Stack
 
 ![Typescript](https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logo=typescript&link=https://github.com/alipiry)
