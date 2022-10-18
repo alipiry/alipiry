@@ -20,15 +20,6 @@
 ![Linux](https://img.shields.io/badge/-Linux-black?style=for-the-badge&logo=linux&link=https://github.com/alipiry)
 ![NeoVIM](https://img.shields.io/badge/-Neovim-black?style=for-the-badge&logo=neovim&link=https://github.com/alipiry)
 
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-  <a href="https://github.com/alipiry">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=alipiry&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alipiry&layout=compact&langs_count=8&theme=algolia" />
-  </a>
-</p>
-
 ### 🤝🏻 &nbsp;Connect with Me
 
 <a href="mailto:ali@piry.dev"><img src="https://img.shields.io/badge/-ali@piry.dev-D14836?style=flat&logo=Gmail&logoColor=white" />
