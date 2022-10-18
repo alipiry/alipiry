@@ -1,5 +1,3 @@
-![Ali Piry, Software Developer](https://raw.githubusercontent.com/alipiry/alipiry/master/ap-dark.png)
-
 👋 &nbsp;Hey there! I'm Ali
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
