@@ -18,4 +18,4 @@
 
 ### 🤝🏻 &nbsp;Connect with Me
 
-<a href="mailto:ali@piry.dev"><img src="https://img.shields.io/badge/-ali@piry.dev-D14836?style=flat&logo=Gmail&logoColor=white" />
+<a href="mailto:alipirydev@gmail.com"><img src="https://img.shields.io/badge/-alipirydev@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white" />
