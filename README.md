@@ -10,7 +10,7 @@
 ![NestJS](https://img.shields.io/badge/-NestJS-black?style=for-the-badge&logo=nestjs&link=https://github.com/alipiry)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=for-the-badge&logo=postgresql&link=https://github.com/alipiry)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-black?style=for-the-badge&logo=graphql&link=https://github.com/alipiry)
-![REST](https://img.shields.io/badge/-REST%20API-black?style=for-the-badge&logo=fastapi&link=https://github.com/alipiry)
+![REST](https://img.shields.io/badge/-REST-black?style=for-the-badge&logo=fastapi&link=https://github.com/alipiry)
 
 ![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react&link=https://github.com/alipiry)
 ![NextJS](https://img.shields.io/badge/-NextJS-black?style=for-the-badge&logo=vercel&link=https://github.com/alipiry)
