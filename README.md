@@ -22,7 +22,3 @@
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-black?style=for-the-badge&logo=githubactions&link=https://github.com/alipiry)
 ![Linux](https://img.shields.io/badge/-Linux-black?style=for-the-badge&logo=linux&link=https://github.com/alipiry)
 ![NeoVIM](https://img.shields.io/badge/-Neovim-black?style=for-the-badge&logo=neovim&link=https://github.com/alipiry)
-
-### 🤝🏻 &nbsp;Connect with Me
-
-<a href="mailto:alipirydev@gmail.com"><img src="https://img.shields.io/badge/-alipirydev@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white" />
